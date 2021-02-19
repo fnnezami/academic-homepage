@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
+- date_end: "2020-10-01"
+  date_start: "2019-10-01"
+  description: "Creating Project Westdrive LoopAR by initiating the idea with a team of 12 HiWi gathering 200 participants behavioral, driving (Using forcefeedback steering wheels), eye and head movement using VR reality and custom made simulator. The project is no further used by five new Ph.D. students to conduct their research. During the course of developing the project 5. theses icluding 3 bachelor and 2 master theses has been successfuly supervised by my colleage Maximilian A. Wächter and me on this project, from which one has been awarded the prise for the best thesis work of 2020 in Niedersachsen by Lea Kühne."
+  organization: Isfahan University of Technology
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Creating Project Westdrive LoopAR
+  
+- date_end: "2019-10-01"
+  date_start: "2019-04-01"
+  description: "Creating Project Westdrive and successfully deploying a self sustaining experiment which was coducted inside ship-exhibition MS-Wissenschaft and entrance of German ministry of education and science for the entirety of exhibition, managing a team of 5. The experiment successfully gathered 21000 behavioral and 8000 questionnaire data"
+  organization: Isfahan University of Technology
+  organization_url: https://www.coursera.org
+  title: Creating Project Westdrive
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+- description: ""
+  organization: Isfahan University of Technology
+  organization_url: https://www.coursera.org
+  title: TCP/IP and Networking
+  url: ""
+- description: ""
+  organization: University of Isfahan
+  organization_url: https://www.coursera.org
+  title: Introduction to cryptagrophy and steganography  
   url: ""
 ---
