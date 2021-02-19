@@ -32,7 +32,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: programming
-  - description: 90%
+- description: 90%
   icon: unity
   icon_pack: fab
   name: Unity3D
