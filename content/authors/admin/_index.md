@@ -14,8 +14,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FarbodNezami
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=jKBqP0IAAAAJ&hl=en
     label: ""
   - icon: github
@@ -27,8 +27,8 @@ social:
   - display:
       header: false
     link: https://www.researchgate.net/profile/Farbod-Nosrat-Nezami
-    icon_pack: fas
-    icon: graduation-cap
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: University of Osnabrück
     url: https://www.ikw.uos.de/
