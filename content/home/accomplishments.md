@@ -27,24 +27,24 @@ item:
   date_start: "2019-10-01"
   description: "Creating Project Westdrive LoopAR by initiating the idea with a team of 12 HiWi gathering 200 participants behavioral, driving (Using forcefeedback steering wheels), eye and head movement using VR reality and custom made simulator. The project is no further used by five new Ph.D. students to conduct their research. During the course of developing the project 5. theses icluding 3 bachelor and 2 master theses has been successfuly supervised by my colleage Maximilian A. Wächter and me on this project, from which one has been awarded the prise for the best thesis work of 2020 in Niedersachsen by Lea Kühne."
   organization: Isfahan University of Technology
-  organization_url: https://www.coursera.org
+  organization_url: https://www.westdrive.ikw.uos.de
   title: Creating Project Westdrive LoopAR
   
 - date_end: "2019-10-01"
   date_start: "2019-04-01"
   description: "Creating Project Westdrive and successfully deploying a self sustaining experiment which was coducted inside ship-exhibition MS-Wissenschaft and entrance of German ministry of education and science for the entirety of exhibition, managing a team of 5. The experiment successfully gathered 21000 behavioral and 8000 questionnaire data"
   organization: Isfahan University of Technology
-  organization_url: https://www.coursera.org
+  organization_url: https://www.westdrive.ikw.uos.de
   title: Creating Project Westdrive
   url: ""
 - description: ""
   organization: Isfahan University of Technology
-  organization_url: https://www.coursera.org
+  organization_url: https://www.english.iut.ac.ir
   title: TCP/IP and Networking
   url: ""
 - description: ""
   organization: University of Isfahan
-  organization_url: https://www.coursera.org
+  organization_url: https://www.https://ui.ac.ir/EN
   title: Introduction to cryptagrophy and steganography  
   url: ""
 ---
