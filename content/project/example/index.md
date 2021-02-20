@@ -12,7 +12,7 @@ tags:
   - VR
   - self-driving-cars
   - toolkits
-external_link: /westdrive
+external_link: /project/example
 url_slides: ""
 links:
   - icon: github
