@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: A project and toolkit to investigate trust and Human Computer
   Interaction in self driving cars using Virtual Reality
 url_video: ""
@@ -12,7 +12,7 @@ tags:
   - VR
   - self-driving-cars
   - toolkits
-external_link: westdrive.ikw.uos.de
+external_link: /westdrive
 url_slides: ""
 links:
   - icon: github
@@ -23,6 +23,8 @@ links:
     name: Westdrive gitlab repo
     icon_pack: fab
     icon: gitlab
+  - url: westdrive.ikw.uos.de
+    name: Project Westdrive Website
 image:
   caption: ""
   focal_point: Smart
