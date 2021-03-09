@@ -1,6 +1,6 @@
 ---
-title: Farbod Nosrat Nezami
 role: Ph.D Candidate in Cognitive Science
+avatar_filename: img_0433.jpg
 bio: My research interests is bringing human and machine closer to each other
 interests:
   - Human-AI cooperation
@@ -40,9 +40,10 @@ education:
     - course: B.Sc. in Computer Hardware Engineering
       institution: Isfahan University of Technology
       year: 2014
-email: fnosratnezam@uos.de
 superuser: true
 highlight_name: false
+title: Farbod Nosrat Nezami
+email: fnosratnezam@uos.de
 ---
 I am a Ph.D. Candidate in Cognitive Science at the University of Osnabrück.  I am the  Virtual Reality laboratory manager and have research mainly on Human-Machine Interaction in the context of trust in the usability of state-of-the-art self-driving cars. 
 
